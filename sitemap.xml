@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://open-innovations.github.io/council-website-emissions/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/CSV2GeoJSON/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/diversity-data/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/diversity-data/builder</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/diversity-data/leeds-city-region/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/geography-bits/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/geojson-minify/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/government-organisation-website-emissions/</loc>
+</url>
+<url>
+  <loc>https://open-innovations.github.io/learning-provider-website-emissions/</loc>
+</url>
+<url>
+	<loc>https://open-innovations.github.io/warm-spaces/</loc>
+</url>
+<url>
+	<loc>https://open-innovations.github.io/warm-spaces/by-area</loc>
+</url>
+<url>
+	<loc>https://open-innovations.github.io/warm-spaces/find</loc>
+</url>
+</urlset>
